@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Mustafa 
-- 👀 I’m interested in full stack developing 
-- 🌱 I’m currently learning front end development 
+- 👀 I’m interested in full-stack developing 
+- 🌱 I’m currently learning front-end development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through @mustafalada36
 
